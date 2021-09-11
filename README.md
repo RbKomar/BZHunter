@@ -1,5 +1,6 @@
 # BZHunter - Hypixel Skyblock Baazar Hunter
 It's a helpful free script to earn your first millions.
+Scripts checks the money in your purse and offer you the best flips on the bazaar to make the biggest profit.
 ____________________________________________________________
 ## Module Installation
 Following modules are required:
